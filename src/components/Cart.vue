@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2>购物车2</h2>
+    <h2>购物车21</h2>
   </div>
 </template>
 <script>
